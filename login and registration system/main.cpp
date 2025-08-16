@@ -5,9 +5,6 @@ using namespace std;
 
 
 
-
-
-
 class user
 {
 private:
@@ -107,6 +104,8 @@ int main()
 		{
 			arr = grow(arr, size);
 			arr[size - 1].userregister();
+			fwrite << arr[size - 1].getname() << " " << arr[size - 1].getpassword() << endl;
+			cout << "REGISTRATION SUCCESSFULLY!" << endl;
 			break;
 		}
 		case 2:
