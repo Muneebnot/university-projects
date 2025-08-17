@@ -17,7 +17,7 @@ Each project is stored in its own folder with a separate README.md explaining de
    A program to manage vehicle information, including adding, deleting, and searching records.
 
 4. [Teacher Student Portal](./teacher%20student%20portal)  
-   A project that manages teacher and student records, assignments, and grading system.
+   A project that manages teacher and student records, marks, and grading system.
 
 ---
 
