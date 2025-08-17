@@ -7,16 +7,16 @@ Each project is stored in its own folder with a separate README.md explaining de
 
 ## 📂 Projects
 
-1. **Library Management System**  
+1. [**Library Management System**](./Library%20Management%20System)  
    A simple system to manage library records, including adding, deleting, and searching for books.
 
-2. **Login & Registration System**  
+2. [**Login & Registration System**](./Login%20%26%20Registration%20System)  
    A basic login management system that allows user registration, login, and account management.
 
-3. **Vehicle Management System**  
+3. [**Vehicle Management System**](./Vehicle%20Management%20System)  
    A program to manage vehicle information, including adding, deleting, and searching records.
 
-4. **Teacher Student Portal**  
+4. [**Teacher Student Portal**](./Teacher%20Student%20Portal)  
    A portal that manages teacher and student interactions, including:
    - Student registration & login  
    - Teacher login  
@@ -51,3 +51,4 @@ To run a project:
 **Muneeb**  
 3rd Semester CS Student | Passionate about C++ & Problem Solving  
 [GitHub Profile](https://github.com/muneebnot)
+
