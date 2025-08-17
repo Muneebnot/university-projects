@@ -7,30 +7,26 @@ Each project is stored in its own folder with a separate README.md explaining de
 
 ## 📂 Projects
 
-1. [**Library Management System**](./Library%20Management%20System)  
+1. [Library Management System](./library%20management%20system)  
    A simple system to manage library records, including adding, deleting, and searching for books.
 
-2. [**Login & Registration System**](./Login%20%26%20Registration%20System)  
+2. [Login & Registration System](./login%20and%20registration%20system)  
    A basic login management system that allows user registration, login, and account management.
 
-3. [**Vehicle Management System**](./Vehicle%20Management%20System)  
+3. [Vehicle Management System](./vechle%20management%20system)  
    A program to manage vehicle information, including adding, deleting, and searching records.
 
-4. [**Teacher Student Portal**](./Teacher%20Student%20Portal)  
-   A portal that manages teacher and student interactions, including:
-   - Student registration & login  
-   - Teacher login  
-   - Viewing reports  
-   - File handling for storing user and student data  
+4. [Teacher Student Portal](./teacher%20student%20portal)  
+   A project that manages teacher and student records, assignments, and grading system.
 
 ---
 
 ## 🚀 How to Run
-All projects are written in C++ and use only simple concepts like arrays, loops, OOP, and file handling.  
+All projects are written in C++ and use only simple concepts like arrays, loops, and file handling.  
 To run a project:
 
-1. Open the `.cpp` file in any C++ IDE (e.g., Dev C++, Code::Blocks, or Visual Studio).  
-2. Compile and run the program.  
+- Open the `.cpp` file in any C++ IDE (e.g., Dev C++, Code::Blocks, or Visual Studio).  
+- Compile and run the program.
 
 ---
 
@@ -50,5 +46,6 @@ To run a project:
 ## 🧑‍💻 Author
 **Muneeb**  
 3rd Semester CS Student | Passionate about C++ & Problem Solving  
-[GitHub Profile](https://github.com/muneebnot)
+[GitHub Profile](https://github.com/Muneebnot)
+
 
